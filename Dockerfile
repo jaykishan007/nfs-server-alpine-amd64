@@ -1,6 +1,6 @@
 FROM arm64v8/alpine:latest
-LABEL maintainer "Steven Iveson <steve@iveson.eu>"
-LABEL source "https://github.com/sjiveson/nfs-server-alpine"
+LABEL maintainer "Jaykishan <jaykishan@playcent.com>"
+LABEL source "https://github.com/jaykishan007/nfs-server-alpine-amd64"
 LABEL branch "master"
 COPY Dockerfile README.md /
 
